@@ -1,6 +1,6 @@
 {
   "vaultName": "To Website",
-  "lastExport": 1710589952064,
+  "lastExport": 1710590520925,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title",
   "useCustomHeadContent": false,
@@ -153,23 +153,200 @@
     "Music/How I keep my listeners engaged.md",
     "Music/How to Finish More Songs.md",
     "Programming Foundations - Object-Oriented Design/Complete Notes.md",
-    "Time Management Fundamentals/1. Choose a PHYSICAL INBOX.md",
-    "Time Management Fundamentals/2. Choosing a portable inbox.md",
-    "Time Management Fundamentals/3. Choosing a notepad.md",
-    "Time Management Fundamentals/Complete Notes.md",
-    "Time Management Fundamentals/DIGITAL STORAGE MADE SIMPLE.md",
-    "Time Management Fundamentals/Gathering to the Inbox.md",
-    "Time Management Fundamentals/Managing time at work.md",
-    "Time Management Fundamentals/MINDSETS - Get the most out of your calendar.md",
-    "Time Management Fundamentals/PERHAPS List - record your ideas here after PROCESSING.md",
-    "Time Management Fundamentals/Processing Email.md",
-    "Time Management Fundamentals/Productivity Principle 1- Space.md",
-    "Time Management Fundamentals/Productivity Principle 2 - Mind.md",
-    "Time Management Fundamentals/Productivity Principle 3 - Time.md",
-    "Time Management Fundamentals/Understanding Processing.md",
+    "To Website/archives-books/book-a-short-history-of-nearly-everything/a-particle's-spinning-will-have-its-sister-particle-spin-on-opposite-direction.html",
+    "To Website/archives-books/book-a-short-history-of-nearly-everything/a-short-history-of-nearly-everything.html",
+    "To Website/archives-books/book-a-short-history-of-nearly-everything/big-and-crowded-atoms-are-usually-unstable.html",
+    "To Website/archives-books/book-a-short-history-of-nearly-everything/computer-was-a-job-title-back-in-the-day.html",
+    "To Website/archives-books/book-a-short-history-of-nearly-everything/dodos-are-meant-to-be-extinct....html",
+    "To Website/archives-books/book-a-short-history-of-nearly-everything/edwin-hubble-and-his-dicovery-that-changed-how-scientists-thought-about-the-universe.html",
+    "To Website/archives-books/book-a-short-history-of-nearly-everything/entropy-explained-in-a-simple-analogy.html",
+    "To Website/archives-books/book-a-short-history-of-nearly-everything/lead-was-labeled-safe-by-doctors-because-they-forgot-to-test-something.html",
+    "To Website/archives-books/book-a-short-history-of-nearly-everything/particle-accelarator-and-what-is-it.html",
+    "To Website/archives-books/book-a-short-history-of-nearly-everything/scientists-thought-physics-was-already-done-as-a-subject.html",
+    "To Website/archives-books/book-a-short-history-of-nearly-everything/time-is-not-eternal-and-gravity-isn't-a-force.html",
+    "To Website/business/0.-moc-business.html",
+    "To Website/business/1.-topic-business-canvas-tool-to-define-an-idea-or-business-concept.html",
+    "To Website/business/businesses-may-appear-less-exciting-but-highly-profitable.html",
+    "To Website/business/customer-relationships.html",
+    "To Website/business/customer-segments.html",
+    "To Website/business/how-to-create-a-business-canvas.html",
+    "To Website/business/key-activities.html",
+    "To Website/business/key-partnerships.html",
+    "To Website/business/key-resources.html",
+    "To Website/business/revenue-streams.html",
+    "To Website/business/super-underrated-business-tip.html",
+    "To Website/business/value-proposition-canvas-template.html",
+    "To Website/business/value-proposition-why-should-a-consumer-buy-your-product.html",
+    "To Website/copywriting/copywriting-marc-roberts.html",
+    "To Website/economics/capitalism.html",
+    "To Website/economics/how-the-economic-machine-works-by-ray-dalio.html",
+    "To Website/economics/side-note-of-how-the-economic-machine-works-by-ray-dalio.html",
+    "To Website/finance/ap101/1.-topic-financial-statements.html",
+    "To Website/finance/ap101/accounting-terms.html",
+    "To Website/finance/ap101/ap101-note.html",
+    "To Website/finance/ap101/balance-sheet.html",
+    "To Website/finance/ap101/cash-flow-statement.html",
+    "To Website/finance/ap101/complete-guide-to-adjusting-entries.html",
+    "To Website/finance/ap101/fleeting-t-account.html",
+    "To Website/finance/ap101/income-statement.html",
+    "To Website/finance/ap101/lesson-1-for-accounting-principles.html",
+    "To Website/finance/ap101/prepaid-expenses.html",
+    "To Website/finance/ap101/prepayments-and-accruals.html",
+    "To Website/finance/ap101/revenue.html",
+    "To Website/finance/ap101/the-reason-why-bank-credits-your-deposited-money.html",
+    "To Website/finance/ap101/trial-balance.png",
+    "To Website/finance/ap101/trial-balance.html",
+    "To Website/finance/ap101/value-chain.html",
+    "To Website/finance/bonds/categories-of-bonds.html",
+    "To Website/finance/bonds/characteristics-of-bonds.html",
+    "To Website/finance/bonds/corporate-bonds.html",
+    "To Website/finance/bonds/coupon-dates.html",
+    "To Website/finance/bonds/coupon-rate.html",
+    "To Website/finance/bonds/government-bonds.html",
+    "To Website/finance/bonds/issue-price.html",
+    "To Website/finance/bonds/maturity-date.html",
+    "To Website/finance/bonds/municipal-bonds.html",
+    "To Website/finance/bonds/who-and-why-do-they-sell-bonds.html",
+    "To Website/finance/crypto/don't-ever-mention-crypto-in-our-traditional-banking-system.html",
+    "To Website/finance/fleeting/fleeting-derivatives.html",
+    "To Website/finance/fleeting/fleeting-influence-monetary-policy.html",
+    "To Website/finance/fleeting/fleeting-lending.html",
+    "To Website/finance/fleeting/fleeting-monetary-authority.html",
+    "To Website/finance/fleeting/foreign-exchange-reserves-what-they-are,-why-countries-hold-them.html",
+    "To Website/finance/fleeting/liquidation-definition.html",
+    "To Website/finance/stocks/adding-new-shares-reduces-value-to-existing-shareholders.html",
+    "To Website/finance/stocks/are-dividends-in-stocks-irrelevant.html",
+    "To Website/finance/stocks/benefits-of-owning-stocks.html",
+    "To Website/finance/stocks/best-consistent-dividend-payers.html",
+    "To Website/finance/stocks/board-of-directors.html",
+    "To Website/finance/stocks/board-of-directors-manages-the-corporation.html",
+    "To Website/finance/stocks/capital-appreciation.html",
+    "To Website/finance/stocks/common-stocks-high-risk-high-reward.html",
+    "To Website/finance/stocks/consistent-dividend-payments-are-good-butttttt.html",
+    "To Website/finance/stocks/corporations-101.html",
+    "To Website/finance/stocks/dividends-in-stocks.html",
+    "To Website/finance/stocks/how-a-company-starts-selling-stocks.html",
+    "To Website/finance/stocks/how-does-buying-shares-or-a-shareholder-earn-money.html",
+    "To Website/finance/stocks/lingo-of-stocks.html",
+    "To Website/finance/stocks/most-majority-shareholders-are-company-founders.html",
+    "To Website/finance/stocks/preferred-stocks-stable-and-predictable.html",
+    "To Website/finance/stocks/reduction-of-dividend-payments-can-be-a-bad-sign-but-rest-assured....html",
+    "To Website/finance/stocks/shareholders-101.html",
+    "To Website/finance/stocks/stocks.html",
+    "To Website/finance/stocks/tax-write-off-reduce-taxable-income.html",
+    "To Website/finance/stocks/the-voting-rights-of-common-shares-does-make-sense.html",
+    "To Website/finance/stocks/thoughts-the-voting-rights-of-common-shares-does-make-sense.html",
+    "To Website/finance/stocks/two-main-types-of-stocks.html",
+    "To Website/finance/stocks/two-types-of-stocks-shares.html",
+    "To Website/finance/stocks/voting-rights-at-shareholders-meetings.html",
+    "To Website/finance/tax-system/derivatives.html",
+    "To Website/finance/tax-system/fleeting-hedges.html",
+    "To Website/finance/tax-system/fundamental-way-of-learning-taxes.html",
+    "To Website/finance/tax-system/lingo-of-taxes.png",
+    "To Website/finance/tax-system/lingo-of-taxes.html",
+    "To Website/finance/tax-system/types-of-derivatives.html",
+    "To Website/finance/tax-system/types-of-taxes.html",
+    "To Website/finance/accounts-receivable.html",
+    "To Website/finance/assets.html",
+    "To Website/finance/assets-are-judged-based-on-how-liquid-they-are-liquidity.html",
+    "To Website/finance/brokers.html",
+    "To Website/finance/face-value.html",
+    "To Website/finance/factoring.html",
+    "To Website/finance/fiat-money.html",
+    "To Website/finance/financial-asset.html",
+    "To Website/finance/fleeting-bonds.html",
+    "To Website/finance/fleeting-capital.html",
+    "To Website/finance/fleeting-equity.html",
+    "To Website/finance/initial-public-offering-(ipo).html",
+    "To Website/finance/intangible-asset.html",
+    "To Website/finance/lending-what-is-it.html",
+    "To Website/finance/monetary-policy.html",
+    "To Website/finance/money-humanity's-biggest-illusion.html",
+    "To Website/finance/puttable-bond.html",
+    "To Website/finance/real-asset.html",
+    "To Website/finance/securities-in-finance.html",
+    "To Website/finance/shareholder-equity.html",
+    "To Website/finance/stock-market-vs-stock-exchange.html",
+    "To Website/finance/underlying-asset.html",
+    "To Website/finance/underwriters.html",
+    "To Website/javascript-essential-training/call-stack-vs-memory-heap.html",
+    "To Website/javascript-essential-training/complete-notes.html",
+    "To Website/javascript-essential-training/how-javascript-compiles-code.html",
+    "To Website/javascript-essential-training/interpreter-vs-compiler-analogy.html",
+    "To Website/job-analysis-project/data-analysis/course-data-analysis-with-python-freecodecamp/demographic-data-analyzer/how-many-people-of-each-race-are-represented-in-this-dataset.html",
+    "To Website/job-analysis-project/data-analysis/course-data-analysis-with-python-freecodecamp/demographic-data-analyzer/untitled.html",
+    "To Website/job-analysis-project/data-analysis/course-data-analysis-with-python-freecodecamp/demographic-data-analyzer/what-is-the-average-age-of-men.html",
+    "To Website/job-analysis-project/data-analysis/course-data-analysis-with-python-freecodecamp/demographic-data-analyzer/what-is-the-minimum-number-of-hours-a-person-works-per-week.html",
+    "To Website/job-analysis-project/data-analysis/course-data-analysis-with-python-freecodecamp/demographic-data-analyzer/what-is-the-percentage-of-people-who-have-a-bachelor's-degree.html",
+    "To Website/job-analysis-project/data-analysis/course-data-analysis-with-python-freecodecamp/mean-variance-standard-deviation-calculator/instructions.html",
+    "To Website/job-analysis-project/data-analysis/course-data-analysis-with-python-freecodecamp/mean-variance-standard-deviation-calculator/my-solution.html",
+    "To Website/job-analysis-project/data-analysis/course-data-analysis-with-python-freecodecamp/data-analysis-with-python-course.html",
+    "To Website/job-analysis-project/data-analysis/course-data-analysis-with-python-freecodecamp/pandas-series.html",
+    "To Website/job-analysis-project/file-formats-for-data-storage-in-data-analysis.html",
+    "To Website/job-analysis-project/forgot-about-stemming,-that-shit-sucks.html",
+    "To Website/job-analysis-project/pandas.html",
+    "To Website/job-analysis-project/python-nltk-package.html",
+    "To Website/job-analysis-project/someone-created-a-website-out-of-it.html",
+    "To Website/job-analysis-project/text-classification.html",
+    "To Website/job-analysis-project/types-of-data-analysis-in-quantitative-data.html",
+    "To Website/job-analysis-project/untitled.html",
+    "To Website/job-analysis-project/updating-scraped-data.html",
+    "To Website/learning-data-analytics-1-foundations/google-data-analytics.html",
+    "To Website/learning-data-analytics-1-foundations/introduction-to-statistics.html",
+    "To Website/learning-data-analytics-1-foundations/khan-academy-statistics.html",
+    "To Website/learning-data-analytics-1-foundations/linkedin-courses-notes.html",
+    "To Website/learning-data-analytics-1-foundations/topic-modeling.html",
+    "To Website/learning-java/complete-notes.html",
+    "To Website/lib/fonts/2d5198822ab091ce4305.woff2",
+    "To Website/lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "To Website/lib/fonts/05b618077343fbbd92b7.ttf",
+    "To Website/lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "To Website/lib/fonts/70cc7ff27245e82ad414.ttf",
+    "To Website/lib/fonts/94f2f163d4b698242fef.otf",
+    "To Website/lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "To Website/lib/fonts/72505e6a122c6acd5471.woff2",
+    "To Website/lib/fonts/454577c22304619db035.ttf",
+    "To Website/lib/fonts/b5f0f109bc88052d4000.woff2",
+    "To Website/lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "To Website/lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "To Website/lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "To Website/lib/html/file-tree.html",
+    "To Website/lib/media/874d8b8e340f75575caa.svg",
+    "To Website/lib/media/favicon.png",
+    "To Website/lib/scripts/graph-data.js",
+    "To Website/lib/scripts/graph-render-worker.js",
+    "To Website/lib/scripts/graph-view.js",
+    "To Website/lib/scripts/graph-wasm.wasm",
+    "To Website/lib/scripts/graph-wasm.js",
+    "To Website/lib/scripts/minisearch.js",
+    "To Website/lib/scripts/pixi.js",
+    "To Website/lib/scripts/tinycolor.js",
+    "To Website/lib/scripts/webpage.js",
+    "To Website/lib/styles/global-variable-styles.css",
+    "To Website/lib/styles/main-styles.css",
+    "To Website/lib/styles/obsidian.css",
+    "To Website/lib/metadata.json",
+    "To Website/lib/search-index.json",
+    "To Website/music/how-i-keep-my-listeners-engaged.html",
+    "To Website/music/how-to-finish-more-songs.html",
+    "To Website/programming-foundations-object-oriented-design/complete-notes.html",
+    "To Website/time-management-fundamentals/1.-choose-a-physical-inbox.html",
+    "To Website/time-management-fundamentals/2.-choosing-a-portable-inbox.html",
+    "To Website/time-management-fundamentals/3.-choosing-a-notepad.html",
+    "To Website/time-management-fundamentals/complete-notes.html",
+    "To Website/time-management-fundamentals/digital-storage-made-simple.html",
+    "To Website/time-management-fundamentals/gathering-to-the-inbox.html",
+    "To Website/time-management-fundamentals/managing-time-at-work.html",
+    "To Website/time-management-fundamentals/mindsets-get-the-most-out-of-your-calendar.html",
+    "To Website/time-management-fundamentals/perhaps-list-record-your-ideas-here-after-processing.html",
+    "To Website/time-management-fundamentals/processing-email.html",
+    "To Website/time-management-fundamentals/productivity-principle-1-space.html",
+    "To Website/time-management-fundamentals/productivity-principle-2-mind.html",
+    "To Website/time-management-fundamentals/productivity-principle-3-time.html",
+    "To Website/time-management-fundamentals/understanding-processing.html",
+    "To Website/index.html",
+    "To Website/para_note_taking_system_preview.png",
     "index.md",
-    "para_note_taking_system_preview.png",
-    "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
     "lib/fonts/2d5198822ab091ce4305.woff2",
@@ -183,23 +360,9 @@
     "lib/fonts/52ac8f3034507f1d9e53.ttf",
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
-    "lib/media/874d8b8e340f75575caa.svg",
-    "lib/html/file-tree.html",
-    "lib/scripts/webpage.js",
-    "lib/scripts/graph-view.js",
-    "lib/scripts/graph-wasm.js",
-    "lib/scripts/graph-render-worker.js",
-    "lib/scripts/tinycolor.js",
-    "lib/scripts/pixi.js",
-    "lib/scripts/minisearch.js",
-    "lib/media/favicon.png",
-    "lib/scripts/graph-data.js",
-    "lib/styles/obsidian.css",
-    "lib/styles/global-variable-styles.css",
-    "lib/styles/main-styles.css"
+    "lib/media/874d8b8e340f75575caa.svg"
   ],
   "mainDependencies": [
-    "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
     "lib/fonts/2d5198822ab091ce4305.woff2",
@@ -213,1184 +376,2137 @@
     "lib/fonts/52ac8f3034507f1d9e53.ttf",
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
-    "lib/media/874d8b8e340f75575caa.svg",
-    "lib/html/file-tree.html",
-    "lib/scripts/webpage.js",
-    "lib/scripts/graph-view.js",
-    "lib/scripts/graph-wasm.js",
-    "lib/scripts/graph-render-worker.js",
-    "lib/scripts/tinycolor.js",
-    "lib/scripts/pixi.js",
-    "lib/scripts/minisearch.js",
-    "lib/media/favicon.png",
-    "lib/scripts/graph-data.js",
-    "lib/styles/obsidian.css",
-    "lib/styles/global-variable-styles.css",
-    "lib/styles/main-styles.css"
+    "lib/media/874d8b8e340f75575caa.svg"
   ],
   "fileInfo": {
     "Archives - Books/Book - A short history of nearly everything/A particle's spinning will have its sister particle spin on opposite direction.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 457,
-      "exportedPath": "archives-books/book-a-short-history-of-nearly-everything/a-particle's-spinning-will-have-its-sister-particle-spin-on-opposite-direction.html",
+      "exportedPath": "Archives - Books/Book - A short history of nearly everything/A particle's spinning will have its sister particle spin on opposite direction.html",
       "dependencies": []
     },
     "Archives - Books/Book - A short history of nearly everything/A short history of nearly everything.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 984,
-      "exportedPath": "archives-books/book-a-short-history-of-nearly-everything/a-short-history-of-nearly-everything.html",
+      "exportedPath": "Archives - Books/Book - A short history of nearly everything/A short history of nearly everything.html",
       "dependencies": []
     },
     "Archives - Books/Book - A short history of nearly everything/Big and Crowded atoms are usually unstable.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 378,
-      "exportedPath": "archives-books/book-a-short-history-of-nearly-everything/big-and-crowded-atoms-are-usually-unstable.html",
+      "exportedPath": "Archives - Books/Book - A short history of nearly everything/Big and Crowded atoms are usually unstable.html",
       "dependencies": []
     },
     "Archives - Books/Book - A short history of nearly everything/Computer was a job title back in the day.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 489,
-      "exportedPath": "archives-books/book-a-short-history-of-nearly-everything/computer-was-a-job-title-back-in-the-day.html",
+      "exportedPath": "Archives - Books/Book - A short history of nearly everything/Computer was a job title back in the day.html",
       "dependencies": []
     },
     "Archives - Books/Book - A short history of nearly everything/Dodos are meant to be extinct....md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 262,
-      "exportedPath": "archives-books/book-a-short-history-of-nearly-everything/dodos-are-meant-to-be-extinct....html",
+      "exportedPath": "Archives - Books/Book - A short history of nearly everything/Dodos are meant to be extinct....html",
       "dependencies": []
     },
     "Archives - Books/Book - A short history of nearly everything/Edwin Hubble and his dicovery that changed how scientists thought about the universe.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 439,
-      "exportedPath": "archives-books/book-a-short-history-of-nearly-everything/edwin-hubble-and-his-dicovery-that-changed-how-scientists-thought-about-the-universe.html",
+      "exportedPath": "Archives - Books/Book - A short history of nearly everything/Edwin Hubble and his dicovery that changed how scientists thought about the universe.html",
       "dependencies": []
     },
     "Archives - Books/Book - A short history of nearly everything/Entropy explained in a simple analogy.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 421,
-      "exportedPath": "archives-books/book-a-short-history-of-nearly-everything/entropy-explained-in-a-simple-analogy.html",
+      "exportedPath": "Archives - Books/Book - A short history of nearly everything/Entropy explained in a simple analogy.html",
       "dependencies": []
     },
     "Archives - Books/Book - A short history of nearly everything/Lead was labeled safe by doctors because they forgot to test something.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 535,
-      "exportedPath": "archives-books/book-a-short-history-of-nearly-everything/lead-was-labeled-safe-by-doctors-because-they-forgot-to-test-something.html",
+      "exportedPath": "Archives - Books/Book - A short history of nearly everything/Lead was labeled safe by doctors because they forgot to test something.html",
       "dependencies": []
     },
     "Archives - Books/Book - A short history of nearly everything/Particle Accelarator and what is it.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 346,
-      "exportedPath": "archives-books/book-a-short-history-of-nearly-everything/particle-accelarator-and-what-is-it.html",
+      "exportedPath": "Archives - Books/Book - A short history of nearly everything/Particle Accelarator and what is it.html",
       "dependencies": []
     },
     "Archives - Books/Book - A short history of nearly everything/Scientists thought physics was already done as a subject.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 384,
-      "exportedPath": "archives-books/book-a-short-history-of-nearly-everything/scientists-thought-physics-was-already-done-as-a-subject.html",
+      "exportedPath": "Archives - Books/Book - A short history of nearly everything/Scientists thought physics was already done as a subject.html",
       "dependencies": []
     },
     "Archives - Books/Book - A short history of nearly everything/Time is not eternal and gravity isn't a force.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 395,
-      "exportedPath": "archives-books/book-a-short-history-of-nearly-everything/time-is-not-eternal-and-gravity-isn't-a-force.html",
+      "exportedPath": "Archives - Books/Book - A short history of nearly everything/Time is not eternal and gravity isn't a force.html",
       "dependencies": []
     },
     "Business/0. MOC Business.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 1203,
-      "exportedPath": "business/0.-moc-business.html",
+      "exportedPath": "Business/0. MOC Business.html",
       "dependencies": []
     },
     "Business/1. Topic -- Business Canvas - tool to define an idea or business concept.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 906,
-      "exportedPath": "business/1.-topic-business-canvas-tool-to-define-an-idea-or-business-concept.html",
+      "exportedPath": "Business/1. Topic -- Business Canvas - tool to define an idea or business concept.html",
       "dependencies": []
     },
     "Business/Businesses may appear less exciting but highly profitable.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 480,
-      "exportedPath": "business/businesses-may-appear-less-exciting-but-highly-profitable.html",
+      "exportedPath": "Business/Businesses may appear less exciting but highly profitable.html",
       "dependencies": []
     },
     "Business/Customer relationships.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 514,
-      "exportedPath": "business/customer-relationships.html",
+      "exportedPath": "Business/Customer relationships.html",
       "dependencies": []
     },
     "Business/Customer segments.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 881,
-      "exportedPath": "business/customer-segments.html",
+      "exportedPath": "Business/Customer segments.html",
       "dependencies": []
     },
     "Business/How to create a Business Canvas.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 1297,
-      "exportedPath": "business/how-to-create-a-business-canvas.html",
+      "exportedPath": "Business/How to create a Business Canvas.html",
       "dependencies": []
     },
     "Business/Key activities.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 629,
-      "exportedPath": "business/key-activities.html",
+      "exportedPath": "Business/Key activities.html",
       "dependencies": []
     },
     "Business/Key partnerships.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 611,
-      "exportedPath": "business/key-partnerships.html",
+      "exportedPath": "Business/Key partnerships.html",
       "dependencies": []
     },
     "Business/Key resources.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 854,
-      "exportedPath": "business/key-resources.html",
+      "exportedPath": "Business/Key resources.html",
       "dependencies": []
     },
     "Business/Revenue streams.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 636,
-      "exportedPath": "business/revenue-streams.html",
+      "exportedPath": "Business/Revenue streams.html",
       "dependencies": []
     },
     "Business/Super Underrated Business Tip.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 786,
-      "exportedPath": "business/super-underrated-business-tip.html",
+      "exportedPath": "Business/Super Underrated Business Tip.html",
       "dependencies": []
     },
     "Business/Value Proposition - why should a consumer buy your product.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 1148,
-      "exportedPath": "business/value-proposition-why-should-a-consumer-buy-your-product.html",
+      "exportedPath": "Business/Value Proposition - why should a consumer buy your product.html",
       "dependencies": []
     },
     "Business/Value Proposition Canvas Template.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 1319,
-      "exportedPath": "business/value-proposition-canvas-template.html",
+      "exportedPath": "Business/Value Proposition Canvas Template.html",
       "dependencies": []
     },
     "Copywriting/Copywriting - Marc Roberts.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 2189,
-      "exportedPath": "copywriting/copywriting-marc-roberts.html",
+      "exportedPath": "Copywriting/Copywriting - Marc Roberts.html",
       "dependencies": []
     },
     "Economics/Capitalism.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 1989,
-      "exportedPath": "economics/capitalism.html",
+      "exportedPath": "Economics/Capitalism.html",
       "dependencies": []
     },
     "Economics/How The Economic Machine Works by Ray Dalio.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 7968,
-      "exportedPath": "economics/how-the-economic-machine-works-by-ray-dalio.html",
+      "exportedPath": "Economics/How The Economic Machine Works by Ray Dalio.html",
       "dependencies": []
     },
     "Economics/Side note of How the Economic Machine Works by Ray Dalio.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 2151,
-      "exportedPath": "economics/side-note-of-how-the-economic-machine-works-by-ray-dalio.html",
+      "exportedPath": "Economics/Side note of How the Economic Machine Works by Ray Dalio.html",
       "dependencies": []
     },
     "Finance/AP101/1. Topic -- Financial Statements.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 150,
-      "exportedPath": "finance/ap101/1.-topic-financial-statements.html",
+      "exportedPath": "Finance/AP101/1. Topic -- Financial Statements.html",
       "dependencies": []
     },
     "Finance/AP101/Accounting Terms.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 559,
-      "exportedPath": "finance/ap101/accounting-terms.html",
+      "exportedPath": "Finance/AP101/Accounting Terms.html",
       "dependencies": []
     },
     "Finance/AP101/AP101 note.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 785,
-      "exportedPath": "finance/ap101/ap101-note.html",
+      "exportedPath": "Finance/AP101/AP101 note.html",
       "dependencies": []
     },
     "Finance/AP101/Balance Sheet.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 361,
-      "exportedPath": "finance/ap101/balance-sheet.html",
+      "exportedPath": "Finance/AP101/Balance Sheet.html",
       "dependencies": []
     },
     "Finance/AP101/Cash Flow Statement.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 203,
-      "exportedPath": "finance/ap101/cash-flow-statement.html",
+      "exportedPath": "Finance/AP101/Cash Flow Statement.html",
       "dependencies": []
     },
     "Finance/AP101/Complete Guide to ADJUSTING ENTRIES.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 1026,
-      "exportedPath": "finance/ap101/complete-guide-to-adjusting-entries.html",
+      "exportedPath": "Finance/AP101/Complete Guide to ADJUSTING ENTRIES.html",
       "dependencies": []
     },
     "Finance/AP101/Fleeting - T-Account.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 3465,
-      "exportedPath": "finance/ap101/fleeting-t-account.html",
+      "exportedPath": "Finance/AP101/Fleeting - T-Account.html",
       "dependencies": []
     },
     "Finance/AP101/Income Statement.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 1117,
-      "exportedPath": "finance/ap101/income-statement.html",
+      "exportedPath": "Finance/AP101/Income Statement.html",
       "dependencies": []
     },
     "Finance/AP101/Lesson 1 for Accounting Principles.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 4091,
-      "exportedPath": "finance/ap101/lesson-1-for-accounting-principles.html",
+      "exportedPath": "Finance/AP101/Lesson 1 for Accounting Principles.html",
       "dependencies": []
     },
     "Finance/AP101/prepaid expenses.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 951,
-      "exportedPath": "finance/ap101/prepaid-expenses.html",
+      "exportedPath": "Finance/AP101/prepaid expenses.html",
       "dependencies": []
     },
     "Finance/AP101/Prepayments and Accruals.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 760,
-      "exportedPath": "finance/ap101/prepayments-and-accruals.html",
+      "exportedPath": "Finance/AP101/Prepayments and Accruals.html",
       "dependencies": []
     },
     "Finance/AP101/Revenue.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 174,
-      "exportedPath": "finance/ap101/revenue.html",
+      "exportedPath": "Finance/AP101/Revenue.html",
       "dependencies": []
     },
     "Finance/AP101/The reason why bank credits your deposited money.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 371,
-      "exportedPath": "finance/ap101/the-reason-why-bank-credits-your-deposited-money.html",
+      "exportedPath": "Finance/AP101/The reason why bank credits your deposited money.html",
       "dependencies": []
     },
     "Finance/AP101/Trial Balance.png": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 96725,
-      "exportedPath": "finance/ap101/trial-balance.png",
+      "exportedPath": "Finance/AP101/Trial Balance.png",
       "dependencies": []
     },
     "Finance/AP101/Trial Balance.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 26,
-      "exportedPath": "finance/ap101/trial-balance.html",
-      "dependencies": [
-        "finance/ap101/trial-balance.png"
-      ]
+      "exportedPath": "Finance/AP101/Trial Balance.html",
+      "dependencies": []
     },
     "Finance/AP101/Value Chain.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 426,
-      "exportedPath": "finance/ap101/value-chain.html",
+      "exportedPath": "Finance/AP101/Value Chain.html",
       "dependencies": []
     },
     "Finance/Bonds/Categories of Bonds.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 579,
-      "exportedPath": "finance/bonds/categories-of-bonds.html",
+      "exportedPath": "Finance/Bonds/Categories of Bonds.html",
       "dependencies": []
     },
     "Finance/Bonds/Characteristics of Bonds.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 728,
-      "exportedPath": "finance/bonds/characteristics-of-bonds.html",
+      "exportedPath": "Finance/Bonds/Characteristics of Bonds.html",
       "dependencies": []
     },
     "Finance/Bonds/Corporate bonds.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 379,
-      "exportedPath": "finance/bonds/corporate-bonds.html",
+      "exportedPath": "Finance/Bonds/Corporate bonds.html",
       "dependencies": []
     },
     "Finance/Bonds/Coupon dates.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 162,
-      "exportedPath": "finance/bonds/coupon-dates.html",
+      "exportedPath": "Finance/Bonds/Coupon dates.html",
       "dependencies": []
     },
     "Finance/Bonds/Coupon Rate.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 357,
-      "exportedPath": "finance/bonds/coupon-rate.html",
+      "exportedPath": "Finance/Bonds/Coupon Rate.html",
       "dependencies": []
     },
     "Finance/Bonds/Government bonds.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 316,
-      "exportedPath": "finance/bonds/government-bonds.html",
+      "exportedPath": "Finance/Bonds/Government bonds.html",
       "dependencies": []
     },
     "Finance/Bonds/Issue Price.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 395,
-      "exportedPath": "finance/bonds/issue-price.html",
+      "exportedPath": "Finance/Bonds/Issue Price.html",
       "dependencies": []
     },
     "Finance/Bonds/Maturity Date.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 105,
-      "exportedPath": "finance/bonds/maturity-date.html",
+      "exportedPath": "Finance/Bonds/Maturity Date.html",
       "dependencies": []
     },
     "Finance/Bonds/Municipal bonds.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 211,
-      "exportedPath": "finance/bonds/municipal-bonds.html",
+      "exportedPath": "Finance/Bonds/Municipal bonds.html",
       "dependencies": []
     },
     "Finance/Bonds/Who and Why do they SELL bonds.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 493,
-      "exportedPath": "finance/bonds/who-and-why-do-they-sell-bonds.html",
+      "exportedPath": "Finance/Bonds/Who and Why do they SELL bonds.html",
       "dependencies": []
     },
     "Finance/Crypto/Don't ever mention crypto in our traditional banking system.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 828,
-      "exportedPath": "finance/crypto/don't-ever-mention-crypto-in-our-traditional-banking-system.html",
+      "exportedPath": "Finance/Crypto/Don't ever mention crypto in our traditional banking system.html",
       "dependencies": []
     },
     "Finance/Fleeting/Fleeting - Derivatives.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 6156,
-      "exportedPath": "finance/fleeting/fleeting-derivatives.html",
+      "exportedPath": "Finance/Fleeting/Fleeting - Derivatives.html",
       "dependencies": []
     },
     "Finance/Fleeting/Fleeting - Influence Monetary Policy.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 5306,
-      "exportedPath": "finance/fleeting/fleeting-influence-monetary-policy.html",
+      "exportedPath": "Finance/Fleeting/Fleeting - Influence Monetary Policy.html",
       "dependencies": []
     },
     "Finance/Fleeting/Fleeting - Lending.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 983,
-      "exportedPath": "finance/fleeting/fleeting-lending.html",
+      "exportedPath": "Finance/Fleeting/Fleeting - Lending.html",
       "dependencies": []
     },
     "Finance/Fleeting/Fleeting - monetary authority.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 5325,
-      "exportedPath": "finance/fleeting/fleeting-monetary-authority.html",
+      "exportedPath": "Finance/Fleeting/Fleeting - monetary authority.html",
       "dependencies": []
     },
     "Finance/Fleeting/Foreign Exchange Reserves - What They Are, Why Countries Hold Them.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 2635,
-      "exportedPath": "finance/fleeting/foreign-exchange-reserves-what-they-are,-why-countries-hold-them.html",
+      "exportedPath": "Finance/Fleeting/Foreign Exchange Reserves - What They Are, Why Countries Hold Them.html",
       "dependencies": []
     },
     "Finance/Fleeting/Liquidation - Definition.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 665,
-      "exportedPath": "finance/fleeting/liquidation-definition.html",
+      "exportedPath": "Finance/Fleeting/Liquidation - Definition.html",
       "dependencies": []
     },
     "Finance/Stocks/Adding new shares reduces value to existing shareholders.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 657,
-      "exportedPath": "finance/stocks/adding-new-shares-reduces-value-to-existing-shareholders.html",
+      "exportedPath": "Finance/Stocks/Adding new shares reduces value to existing shareholders.html",
       "dependencies": []
     },
     "Finance/Stocks/Are Dividends in Stocks Irrelevant.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 869,
-      "exportedPath": "finance/stocks/are-dividends-in-stocks-irrelevant.html",
+      "exportedPath": "Finance/Stocks/Are Dividends in Stocks Irrelevant.html",
       "dependencies": []
     },
     "Finance/Stocks/Benefits of Owning Stocks.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 327,
-      "exportedPath": "finance/stocks/benefits-of-owning-stocks.html",
+      "exportedPath": "Finance/Stocks/Benefits of Owning Stocks.html",
       "dependencies": []
     },
     "Finance/Stocks/Best consistent dividend payers.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 488,
-      "exportedPath": "finance/stocks/best-consistent-dividend-payers.html",
+      "exportedPath": "Finance/Stocks/Best consistent dividend payers.html",
       "dependencies": []
     },
     "Finance/Stocks/Board of Directors.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 829,
-      "exportedPath": "finance/stocks/board-of-directors.html",
+      "exportedPath": "Finance/Stocks/Board of Directors.html",
       "dependencies": []
     },
     "Finance/Stocks/Board of Directors manages the corporation.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 272,
-      "exportedPath": "finance/stocks/board-of-directors-manages-the-corporation.html",
+      "exportedPath": "Finance/Stocks/Board of Directors manages the corporation.html",
       "dependencies": []
     },
     "Finance/Stocks/Capital Appreciation.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 1001,
-      "exportedPath": "finance/stocks/capital-appreciation.html",
+      "exportedPath": "Finance/Stocks/Capital Appreciation.html",
       "dependencies": []
     },
     "Finance/Stocks/Common Stocks - High Risk High reward.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 505,
-      "exportedPath": "finance/stocks/common-stocks-high-risk-high-reward.html",
+      "exportedPath": "Finance/Stocks/Common Stocks - High Risk High reward.html",
       "dependencies": []
     },
     "Finance/Stocks/Consistent dividend payments are good BUTTTTTT.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 765,
-      "exportedPath": "finance/stocks/consistent-dividend-payments-are-good-butttttt.html",
+      "exportedPath": "Finance/Stocks/Consistent dividend payments are good BUTTTTTT.html",
       "dependencies": []
     },
     "Finance/Stocks/Corporations 101.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 480,
-      "exportedPath": "finance/stocks/corporations-101.html",
+      "exportedPath": "Finance/Stocks/Corporations 101.html",
       "dependencies": []
     },
     "Finance/Stocks/Dividends in stocks.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 1242,
-      "exportedPath": "finance/stocks/dividends-in-stocks.html",
+      "exportedPath": "Finance/Stocks/Dividends in stocks.html",
       "dependencies": []
     },
     "Finance/Stocks/How a company starts selling stocks.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 664,
-      "exportedPath": "finance/stocks/how-a-company-starts-selling-stocks.html",
+      "exportedPath": "Finance/Stocks/How a company starts selling stocks.html",
       "dependencies": []
     },
     "Finance/Stocks/How does buying shares or a shareholder earn money.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 718,
-      "exportedPath": "finance/stocks/how-does-buying-shares-or-a-shareholder-earn-money.html",
+      "exportedPath": "Finance/Stocks/How does buying shares or a shareholder earn money.html",
       "dependencies": []
     },
     "Finance/Stocks/Lingo of Stocks.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 295,
-      "exportedPath": "finance/stocks/lingo-of-stocks.html",
+      "exportedPath": "Finance/Stocks/Lingo of Stocks.html",
       "dependencies": []
     },
     "Finance/Stocks/Most majority shareholders are company founders.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 440,
-      "exportedPath": "finance/stocks/most-majority-shareholders-are-company-founders.html",
+      "exportedPath": "Finance/Stocks/Most majority shareholders are company founders.html",
       "dependencies": []
     },
     "Finance/Stocks/Preferred Stocks - Stable and Predictable.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 267,
-      "exportedPath": "finance/stocks/preferred-stocks-stable-and-predictable.html",
+      "exportedPath": "Finance/Stocks/Preferred Stocks - Stable and Predictable.html",
       "dependencies": []
     },
     "Finance/Stocks/Reduction of dividend payments can be a BAD SIGN but rest assured....md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 808,
-      "exportedPath": "finance/stocks/reduction-of-dividend-payments-can-be-a-bad-sign-but-rest-assured....html",
+      "exportedPath": "Finance/Stocks/Reduction of dividend payments can be a BAD SIGN but rest assured....html",
       "dependencies": []
     },
     "Finance/Stocks/Shareholders 101.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 489,
-      "exportedPath": "finance/stocks/shareholders-101.html",
+      "exportedPath": "Finance/Stocks/Shareholders 101.html",
       "dependencies": []
     },
     "Finance/Stocks/Stocks.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 777,
-      "exportedPath": "finance/stocks/stocks.html",
+      "exportedPath": "Finance/Stocks/Stocks.html",
       "dependencies": []
     },
     "Finance/Stocks/Tax Write-off - Reduce taxable income.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 1756,
-      "exportedPath": "finance/stocks/tax-write-off-reduce-taxable-income.html",
+      "exportedPath": "Finance/Stocks/Tax Write-off - Reduce taxable income.html",
       "dependencies": []
     },
     "Finance/Stocks/The voting rights of Common Shares does make sense.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 387,
-      "exportedPath": "finance/stocks/the-voting-rights-of-common-shares-does-make-sense.html",
+      "exportedPath": "Finance/Stocks/The voting rights of Common Shares does make sense.html",
       "dependencies": []
     },
     "Finance/Stocks/Thoughts - The voting rights of Common Shares does make sense.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 400,
-      "exportedPath": "finance/stocks/thoughts-the-voting-rights-of-common-shares-does-make-sense.html",
+      "exportedPath": "Finance/Stocks/Thoughts - The voting rights of Common Shares does make sense.html",
       "dependencies": []
     },
     "Finance/Stocks/Two main types of Stocks.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 269,
-      "exportedPath": "finance/stocks/two-main-types-of-stocks.html",
+      "exportedPath": "Finance/Stocks/Two main types of Stocks.html",
       "dependencies": []
     },
     "Finance/Stocks/Two types of Stocks - Shares.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 1442,
-      "exportedPath": "finance/stocks/two-types-of-stocks-shares.html",
+      "exportedPath": "Finance/Stocks/Two types of Stocks - Shares.html",
       "dependencies": []
     },
     "Finance/Stocks/Voting rights at shareholders meetings.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 133,
-      "exportedPath": "finance/stocks/voting-rights-at-shareholders-meetings.html",
+      "exportedPath": "Finance/Stocks/Voting rights at shareholders meetings.html",
       "dependencies": []
     },
     "Finance/Tax System/Derivatives.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 1370,
-      "exportedPath": "finance/tax-system/derivatives.html",
+      "exportedPath": "Finance/Tax System/Derivatives.html",
       "dependencies": []
     },
     "Finance/Tax System/Fleeting - Hedges.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 176,
-      "exportedPath": "finance/tax-system/fleeting-hedges.html",
+      "exportedPath": "Finance/Tax System/Fleeting - Hedges.html",
       "dependencies": []
     },
     "Finance/Tax System/Fundamental way of learning taxes.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 2539,
-      "exportedPath": "finance/tax-system/fundamental-way-of-learning-taxes.html",
+      "exportedPath": "Finance/Tax System/Fundamental way of learning taxes.html",
       "dependencies": []
     },
     "Finance/Tax System/Lingo of Taxes.png": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 74275,
-      "exportedPath": "finance/tax-system/lingo-of-taxes.png",
+      "exportedPath": "Finance/Tax System/Lingo of Taxes.png",
       "dependencies": []
     },
     "Finance/Tax System/Lingo of Taxes.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 424,
-      "exportedPath": "finance/tax-system/lingo-of-taxes.html",
-      "dependencies": [
-        "finance/tax-system/lingo-of-taxes.png"
-      ]
+      "exportedPath": "Finance/Tax System/Lingo of Taxes.html",
+      "dependencies": []
     },
     "Finance/Tax System/Types of Derivatives.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 1680,
-      "exportedPath": "finance/tax-system/types-of-derivatives.html",
+      "exportedPath": "Finance/Tax System/Types of Derivatives.html",
       "dependencies": []
     },
     "Finance/Tax System/Types of Taxes.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 5376,
-      "exportedPath": "finance/tax-system/types-of-taxes.html",
+      "exportedPath": "Finance/Tax System/Types of Taxes.html",
       "dependencies": []
     },
     "Finance/Accounts Receivable.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 195,
-      "exportedPath": "finance/accounts-receivable.html",
+      "exportedPath": "Finance/Accounts Receivable.html",
       "dependencies": []
     },
     "Finance/Assets.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 111,
-      "exportedPath": "finance/assets.html",
+      "exportedPath": "Finance/Assets.html",
       "dependencies": []
     },
     "Finance/Assets are judged based on how liquid they are - Liquidity.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 477,
-      "exportedPath": "finance/assets-are-judged-based-on-how-liquid-they-are-liquidity.html",
+      "exportedPath": "Finance/Assets are judged based on how liquid they are - Liquidity.html",
       "dependencies": []
     },
     "Finance/Brokers.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 610,
-      "exportedPath": "finance/brokers.html",
+      "exportedPath": "Finance/Brokers.html",
       "dependencies": []
     },
     "Finance/Face Value.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 399,
-      "exportedPath": "finance/face-value.html",
+      "exportedPath": "Finance/Face Value.html",
       "dependencies": []
     },
     "Finance/Factoring.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 1643,
-      "exportedPath": "finance/factoring.html",
+      "exportedPath": "Finance/Factoring.html",
       "dependencies": []
     },
     "Finance/Fiat Money.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 4205,
-      "exportedPath": "finance/fiat-money.html",
+      "exportedPath": "Finance/Fiat Money.html",
       "dependencies": []
     },
     "Finance/Financial Asset.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 989,
-      "exportedPath": "finance/financial-asset.html",
+      "exportedPath": "Finance/Financial Asset.html",
       "dependencies": []
     },
     "Finance/Fleeting - Bonds.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 5107,
-      "exportedPath": "finance/fleeting-bonds.html",
+      "exportedPath": "Finance/Fleeting - Bonds.html",
       "dependencies": []
     },
     "Finance/Fleeting - Capital.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 0,
-      "exportedPath": "finance/fleeting-capital.html",
+      "exportedPath": "Finance/Fleeting - Capital.html",
       "dependencies": []
     },
     "Finance/Fleeting - Equity.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 2075,
-      "exportedPath": "finance/fleeting-equity.html",
+      "exportedPath": "Finance/Fleeting - Equity.html",
       "dependencies": []
     },
     "Finance/Initial Public Offering (IPO).md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 178,
-      "exportedPath": "finance/initial-public-offering-(ipo).html",
+      "exportedPath": "Finance/Initial Public Offering (IPO).html",
       "dependencies": []
     },
     "Finance/Intangible Asset.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 330,
-      "exportedPath": "finance/intangible-asset.html",
+      "exportedPath": "Finance/Intangible Asset.html",
       "dependencies": []
     },
     "Finance/Lending - What is it.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 341,
-      "exportedPath": "finance/lending-what-is-it.html",
+      "exportedPath": "Finance/Lending - What is it.html",
       "dependencies": []
     },
     "Finance/Monetary Policy.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 251,
-      "exportedPath": "finance/monetary-policy.html",
+      "exportedPath": "Finance/Monetary Policy.html",
       "dependencies": []
     },
     "Finance/Money - Humanity's Biggest Illusion.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 2225,
-      "exportedPath": "finance/money-humanity's-biggest-illusion.html",
+      "exportedPath": "Finance/Money - Humanity's Biggest Illusion.html",
       "dependencies": []
     },
     "Finance/Puttable Bond.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 180,
-      "exportedPath": "finance/puttable-bond.html",
+      "exportedPath": "Finance/Puttable Bond.html",
       "dependencies": []
     },
     "Finance/Real Asset.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 384,
-      "exportedPath": "finance/real-asset.html",
+      "exportedPath": "Finance/Real Asset.html",
       "dependencies": []
     },
     "Finance/Securities in Finance.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 159,
-      "exportedPath": "finance/securities-in-finance.html",
+      "exportedPath": "Finance/Securities in Finance.html",
       "dependencies": []
     },
     "Finance/Shareholder Equity.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 0,
-      "exportedPath": "finance/shareholder-equity.html",
+      "exportedPath": "Finance/Shareholder Equity.html",
       "dependencies": []
     },
     "Finance/Stock Market vs Stock Exchange.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 311,
-      "exportedPath": "finance/stock-market-vs-stock-exchange.html",
+      "exportedPath": "Finance/Stock Market vs Stock Exchange.html",
       "dependencies": []
     },
     "Finance/Underlying Asset.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 433,
-      "exportedPath": "finance/underlying-asset.html",
+      "exportedPath": "Finance/Underlying Asset.html",
       "dependencies": []
     },
     "Finance/Underwriters.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 545,
-      "exportedPath": "finance/underwriters.html",
+      "exportedPath": "Finance/Underwriters.html",
       "dependencies": []
     },
     "Javascript Essential Training/Call Stack vs Memory Heap.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 7240,
-      "exportedPath": "javascript-essential-training/call-stack-vs-memory-heap.html",
+      "exportedPath": "Javascript Essential Training/Call Stack vs Memory Heap.html",
       "dependencies": []
     },
     "Javascript Essential Training/Complete Notes.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 23558,
-      "exportedPath": "javascript-essential-training/complete-notes.html",
+      "exportedPath": "Javascript Essential Training/Complete Notes.html",
       "dependencies": []
     },
     "Javascript Essential Training/How Javascript compiles code.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 4608,
-      "exportedPath": "javascript-essential-training/how-javascript-compiles-code.html",
+      "exportedPath": "Javascript Essential Training/How Javascript compiles code.html",
       "dependencies": []
     },
     "Javascript Essential Training/Interpreter vs Compiler ANALOGY.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 478,
-      "exportedPath": "javascript-essential-training/interpreter-vs-compiler-analogy.html",
+      "exportedPath": "Javascript Essential Training/Interpreter vs Compiler ANALOGY.html",
       "dependencies": []
     },
     "Job Analysis Project/Data Analysis/Course - Data Analysis with Python - FreeCodecamp/Demographic Data Analyzer/How many people of each race are represented in this dataset.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 1220,
-      "exportedPath": "job-analysis-project/data-analysis/course-data-analysis-with-python-freecodecamp/demographic-data-analyzer/how-many-people-of-each-race-are-represented-in-this-dataset.html",
+      "exportedPath": "Job Analysis Project/Data Analysis/Course - Data Analysis with Python - FreeCodecamp/Demographic Data Analyzer/How many people of each race are represented in this dataset.html",
       "dependencies": []
     },
     "Job Analysis Project/Data Analysis/Course - Data Analysis with Python - FreeCodecamp/Demographic Data Analyzer/Untitled.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 2494,
-      "exportedPath": "job-analysis-project/data-analysis/course-data-analysis-with-python-freecodecamp/demographic-data-analyzer/untitled.html",
+      "exportedPath": "Job Analysis Project/Data Analysis/Course - Data Analysis with Python - FreeCodecamp/Demographic Data Analyzer/Untitled.html",
       "dependencies": []
     },
     "Job Analysis Project/Data Analysis/Course - Data Analysis with Python - FreeCodecamp/Demographic Data Analyzer/What is the average age of men.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 262,
-      "exportedPath": "job-analysis-project/data-analysis/course-data-analysis-with-python-freecodecamp/demographic-data-analyzer/what-is-the-average-age-of-men.html",
+      "exportedPath": "Job Analysis Project/Data Analysis/Course - Data Analysis with Python - FreeCodecamp/Demographic Data Analyzer/What is the average age of men.html",
       "dependencies": []
     },
     "Job Analysis Project/Data Analysis/Course - Data Analysis with Python - FreeCodecamp/Demographic Data Analyzer/What is the minimum number of hours a person works per week.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 128,
-      "exportedPath": "job-analysis-project/data-analysis/course-data-analysis-with-python-freecodecamp/demographic-data-analyzer/what-is-the-minimum-number-of-hours-a-person-works-per-week.html",
+      "exportedPath": "Job Analysis Project/Data Analysis/Course - Data Analysis with Python - FreeCodecamp/Demographic Data Analyzer/What is the minimum number of hours a person works per week.html",
       "dependencies": []
     },
     "Job Analysis Project/Data Analysis/Course - Data Analysis with Python - FreeCodecamp/Demographic Data Analyzer/What is the percentage of people who have a Bachelor's degree.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 1920,
-      "exportedPath": "job-analysis-project/data-analysis/course-data-analysis-with-python-freecodecamp/demographic-data-analyzer/what-is-the-percentage-of-people-who-have-a-bachelor's-degree.html",
+      "exportedPath": "Job Analysis Project/Data Analysis/Course - Data Analysis with Python - FreeCodecamp/Demographic Data Analyzer/What is the percentage of people who have a Bachelor's degree.html",
       "dependencies": []
     },
     "Job Analysis Project/Data Analysis/Course - Data Analysis with Python - FreeCodecamp/Mean-Variance-Standard Deviation Calculator/Instructions.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 1538,
-      "exportedPath": "job-analysis-project/data-analysis/course-data-analysis-with-python-freecodecamp/mean-variance-standard-deviation-calculator/instructions.html",
+      "exportedPath": "Job Analysis Project/Data Analysis/Course - Data Analysis with Python - FreeCodecamp/Mean-Variance-Standard Deviation Calculator/Instructions.html",
       "dependencies": []
     },
     "Job Analysis Project/Data Analysis/Course - Data Analysis with Python - FreeCodecamp/Mean-Variance-Standard Deviation Calculator/My Solution.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 805,
-      "exportedPath": "job-analysis-project/data-analysis/course-data-analysis-with-python-freecodecamp/mean-variance-standard-deviation-calculator/my-solution.html",
+      "exportedPath": "Job Analysis Project/Data Analysis/Course - Data Analysis with Python - FreeCodecamp/Mean-Variance-Standard Deviation Calculator/My Solution.html",
       "dependencies": []
     },
     "Job Analysis Project/Data Analysis/Course - Data Analysis with Python - FreeCodecamp/Data Analysis with Python  - Course.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 3652,
-      "exportedPath": "job-analysis-project/data-analysis/course-data-analysis-with-python-freecodecamp/data-analysis-with-python-course.html",
+      "exportedPath": "Job Analysis Project/Data Analysis/Course - Data Analysis with Python - FreeCodecamp/Data Analysis with Python  - Course.html",
       "dependencies": []
     },
     "Job Analysis Project/Data Analysis/Course - Data Analysis with Python - FreeCodecamp/Pandas Series.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 594,
-      "exportedPath": "job-analysis-project/data-analysis/course-data-analysis-with-python-freecodecamp/pandas-series.html",
+      "exportedPath": "Job Analysis Project/Data Analysis/Course - Data Analysis with Python - FreeCodecamp/Pandas Series.html",
       "dependencies": []
     },
     "Job Analysis Project/File Formats for Data Storage in Data Analysis.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 739,
-      "exportedPath": "job-analysis-project/file-formats-for-data-storage-in-data-analysis.html",
+      "exportedPath": "Job Analysis Project/File Formats for Data Storage in Data Analysis.html",
       "dependencies": []
     },
     "Job Analysis Project/Forgot about Stemming, that shit sucks.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 523,
-      "exportedPath": "job-analysis-project/forgot-about-stemming,-that-shit-sucks.html",
+      "exportedPath": "Job Analysis Project/Forgot about Stemming, that shit sucks.html",
       "dependencies": []
     },
     "Job Analysis Project/Pandas.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 5047,
-      "exportedPath": "job-analysis-project/pandas.html",
+      "exportedPath": "Job Analysis Project/Pandas.html",
       "dependencies": []
     },
     "Job Analysis Project/Python NLTK Package.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 3463,
-      "exportedPath": "job-analysis-project/python-nltk-package.html",
+      "exportedPath": "Job Analysis Project/Python NLTK Package.html",
       "dependencies": []
     },
     "Job Analysis Project/Someone created a website out of it.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 932,
-      "exportedPath": "job-analysis-project/someone-created-a-website-out-of-it.html",
+      "exportedPath": "Job Analysis Project/Someone created a website out of it.html",
       "dependencies": []
     },
     "Job Analysis Project/Text Classification.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 1752,
-      "exportedPath": "job-analysis-project/text-classification.html",
+      "exportedPath": "Job Analysis Project/Text Classification.html",
       "dependencies": []
     },
     "Job Analysis Project/Types of Data Analysis in Quantitative Data.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 1968,
-      "exportedPath": "job-analysis-project/types-of-data-analysis-in-quantitative-data.html",
+      "exportedPath": "Job Analysis Project/Types of Data Analysis in Quantitative Data.html",
       "dependencies": []
     },
     "Job Analysis Project/Untitled.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 1261,
-      "exportedPath": "job-analysis-project/untitled.html",
+      "exportedPath": "Job Analysis Project/Untitled.html",
       "dependencies": []
     },
     "Job Analysis Project/Updating scraped data.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 2800,
-      "exportedPath": "job-analysis-project/updating-scraped-data.html",
+      "exportedPath": "Job Analysis Project/Updating scraped data.html",
       "dependencies": []
     },
     "Learning Data Analytics - 1 Foundations/Google Data Analytics.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 495,
-      "exportedPath": "learning-data-analytics-1-foundations/google-data-analytics.html",
+      "exportedPath": "Learning Data Analytics - 1 Foundations/Google Data Analytics.html",
       "dependencies": []
     },
     "Learning Data Analytics - 1 Foundations/Introduction to Statistics.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 818,
-      "exportedPath": "learning-data-analytics-1-foundations/introduction-to-statistics.html",
+      "exportedPath": "Learning Data Analytics - 1 Foundations/Introduction to Statistics.html",
       "dependencies": []
     },
     "Learning Data Analytics - 1 Foundations/Khan Academy - Statistics.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 4035,
-      "exportedPath": "learning-data-analytics-1-foundations/khan-academy-statistics.html",
+      "exportedPath": "Learning Data Analytics - 1 Foundations/Khan Academy - Statistics.html",
       "dependencies": []
     },
     "Learning Data Analytics - 1 Foundations/LinkedIn Courses Notes.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 3903,
-      "exportedPath": "learning-data-analytics-1-foundations/linkedin-courses-notes.html",
+      "exportedPath": "Learning Data Analytics - 1 Foundations/LinkedIn Courses Notes.html",
       "dependencies": []
     },
     "Learning Data Analytics - 1 Foundations/Topic Modeling.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 188,
-      "exportedPath": "learning-data-analytics-1-foundations/topic-modeling.html",
+      "exportedPath": "Learning Data Analytics - 1 Foundations/Topic Modeling.html",
       "dependencies": []
     },
     "Learning Java/Complete Notes.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 5916,
-      "exportedPath": "learning-java/complete-notes.html",
+      "exportedPath": "Learning Java/Complete Notes.html",
       "dependencies": []
     },
     "Music/How I keep my listeners engaged.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 5314,
-      "exportedPath": "music/how-i-keep-my-listeners-engaged.html",
+      "exportedPath": "Music/How I keep my listeners engaged.html",
       "dependencies": []
     },
     "Music/How to Finish More Songs.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 4579,
-      "exportedPath": "music/how-to-finish-more-songs.html",
+      "exportedPath": "Music/How to Finish More Songs.html",
       "dependencies": []
     },
     "Programming Foundations - Object-Oriented Design/Complete Notes.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 14733,
-      "exportedPath": "programming-foundations-object-oriented-design/complete-notes.html",
+      "exportedPath": "Programming Foundations - Object-Oriented Design/Complete Notes.html",
       "dependencies": []
     },
-    "Time Management Fundamentals/1. Choose a PHYSICAL INBOX.md": {
-      "modifiedTime": 1710589952064,
-      "sourceSize": 972,
-      "exportedPath": "time-management-fundamentals/1.-choose-a-physical-inbox.html",
+    "To Website/archives-books/book-a-short-history-of-nearly-everything/a-particle's-spinning-will-have-its-sister-particle-spin-on-opposite-direction.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 16579,
+      "exportedPath": "To Website/archives-books/book-a-short-history-of-nearly-everything/a-particle's-spinning-will-have-its-sister-particle-spin-on-opposite-direction.html",
       "dependencies": []
     },
-    "Time Management Fundamentals/2. Choosing a portable inbox.md": {
-      "modifiedTime": 1710589952064,
-      "sourceSize": 552,
-      "exportedPath": "time-management-fundamentals/2.-choosing-a-portable-inbox.html",
+    "To Website/archives-books/book-a-short-history-of-nearly-everything/a-short-history-of-nearly-everything.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 21628,
+      "exportedPath": "To Website/archives-books/book-a-short-history-of-nearly-everything/a-short-history-of-nearly-everything.html",
       "dependencies": []
     },
-    "Time Management Fundamentals/3. Choosing a notepad.md": {
-      "modifiedTime": 1710589952064,
-      "sourceSize": 945,
-      "exportedPath": "time-management-fundamentals/3.-choosing-a-notepad.html",
+    "To Website/archives-books/book-a-short-history-of-nearly-everything/big-and-crowded-atoms-are-usually-unstable.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 15901,
+      "exportedPath": "To Website/archives-books/book-a-short-history-of-nearly-everything/big-and-crowded-atoms-are-usually-unstable.html",
       "dependencies": []
     },
-    "Time Management Fundamentals/Complete Notes.md": {
-      "modifiedTime": 1710589952064,
-      "sourceSize": 6472,
-      "exportedPath": "time-management-fundamentals/complete-notes.html",
+    "To Website/archives-books/book-a-short-history-of-nearly-everything/computer-was-a-job-title-back-in-the-day.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 16053,
+      "exportedPath": "To Website/archives-books/book-a-short-history-of-nearly-everything/computer-was-a-job-title-back-in-the-day.html",
       "dependencies": []
     },
-    "Time Management Fundamentals/DIGITAL STORAGE MADE SIMPLE.md": {
-      "modifiedTime": 1710589952064,
-      "sourceSize": 9649,
-      "exportedPath": "time-management-fundamentals/digital-storage-made-simple.html",
+    "To Website/archives-books/book-a-short-history-of-nearly-everything/dodos-are-meant-to-be-extinct....html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 15622,
+      "exportedPath": "To Website/archives-books/book-a-short-history-of-nearly-everything/dodos-are-meant-to-be-extinct....html",
       "dependencies": []
     },
-    "Time Management Fundamentals/Gathering to the Inbox.md": {
-      "modifiedTime": 1710589952064,
-      "sourceSize": 3225,
-      "exportedPath": "time-management-fundamentals/gathering-to-the-inbox.html",
+    "To Website/archives-books/book-a-short-history-of-nearly-everything/edwin-hubble-and-his-dicovery-that-changed-how-scientists-thought-about-the-universe.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 16409,
+      "exportedPath": "To Website/archives-books/book-a-short-history-of-nearly-everything/edwin-hubble-and-his-dicovery-that-changed-how-scientists-thought-about-the-universe.html",
       "dependencies": []
     },
-    "Time Management Fundamentals/Managing time at work.md": {
-      "modifiedTime": 1710589952064,
-      "sourceSize": 6322,
-      "exportedPath": "time-management-fundamentals/managing-time-at-work.html",
+    "To Website/archives-books/book-a-short-history-of-nearly-everything/entropy-explained-in-a-simple-analogy.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 15826,
+      "exportedPath": "To Website/archives-books/book-a-short-history-of-nearly-everything/entropy-explained-in-a-simple-analogy.html",
       "dependencies": []
     },
-    "Time Management Fundamentals/MINDSETS - Get the most out of your calendar.md": {
-      "modifiedTime": 1710589952064,
-      "sourceSize": 2278,
-      "exportedPath": "time-management-fundamentals/mindsets-get-the-most-out-of-your-calendar.html",
+    "To Website/archives-books/book-a-short-history-of-nearly-everything/lead-was-labeled-safe-by-doctors-because-they-forgot-to-test-something.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 16407,
+      "exportedPath": "To Website/archives-books/book-a-short-history-of-nearly-everything/lead-was-labeled-safe-by-doctors-because-they-forgot-to-test-something.html",
       "dependencies": []
     },
-    "Time Management Fundamentals/PERHAPS List - record your ideas here after PROCESSING.md": {
-      "modifiedTime": 1710589952064,
-      "sourceSize": 1048,
-      "exportedPath": "time-management-fundamentals/perhaps-list-record-your-ideas-here-after-processing.html",
+    "To Website/archives-books/book-a-short-history-of-nearly-everything/particle-accelarator-and-what-is-it.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 15797,
+      "exportedPath": "To Website/archives-books/book-a-short-history-of-nearly-everything/particle-accelarator-and-what-is-it.html",
       "dependencies": []
     },
-    "Time Management Fundamentals/Processing Email.md": {
-      "modifiedTime": 1710589952064,
-      "sourceSize": 3045,
-      "exportedPath": "time-management-fundamentals/processing-email.html",
+    "To Website/archives-books/book-a-short-history-of-nearly-everything/scientists-thought-physics-was-already-done-as-a-subject.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 16087,
+      "exportedPath": "To Website/archives-books/book-a-short-history-of-nearly-everything/scientists-thought-physics-was-already-done-as-a-subject.html",
       "dependencies": []
     },
-    "Time Management Fundamentals/Productivity Principle 1- Space.md": {
-      "modifiedTime": 1710589952064,
-      "sourceSize": 3168,
-      "exportedPath": "time-management-fundamentals/productivity-principle-1-space.html",
+    "To Website/archives-books/book-a-short-history-of-nearly-everything/time-is-not-eternal-and-gravity-isn't-a-force.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 15976,
+      "exportedPath": "To Website/archives-books/book-a-short-history-of-nearly-everything/time-is-not-eternal-and-gravity-isn't-a-force.html",
       "dependencies": []
     },
-    "Time Management Fundamentals/Productivity Principle 2 - Mind.md": {
-      "modifiedTime": 1710589952064,
-      "sourceSize": 2019,
-      "exportedPath": "time-management-fundamentals/productivity-principle-2-mind.html",
+    "To Website/business/0.-moc-business.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 17708,
+      "exportedPath": "To Website/business/0.-moc-business.html",
       "dependencies": []
     },
-    "Time Management Fundamentals/Productivity Principle 3 - Time.md": {
-      "modifiedTime": 1710589952064,
-      "sourceSize": 492,
-      "exportedPath": "time-management-fundamentals/productivity-principle-3-time.html",
+    "To Website/business/1.-topic-business-canvas-tool-to-define-an-idea-or-business-concept.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 15749,
+      "exportedPath": "To Website/business/1.-topic-business-canvas-tool-to-define-an-idea-or-business-concept.html",
       "dependencies": []
     },
-    "Time Management Fundamentals/Understanding Processing.md": {
-      "modifiedTime": 1710589952064,
-      "sourceSize": 5229,
-      "exportedPath": "time-management-fundamentals/understanding-processing.html",
+    "To Website/business/businesses-may-appear-less-exciting-but-highly-profitable.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 14896,
+      "exportedPath": "To Website/business/businesses-may-appear-less-exciting-but-highly-profitable.html",
+      "dependencies": []
+    },
+    "To Website/business/customer-relationships.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 15772,
+      "exportedPath": "To Website/business/customer-relationships.html",
+      "dependencies": []
+    },
+    "To Website/business/customer-segments.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 16298,
+      "exportedPath": "To Website/business/customer-segments.html",
+      "dependencies": []
+    },
+    "To Website/business/how-to-create-a-business-canvas.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 25975,
+      "exportedPath": "To Website/business/how-to-create-a-business-canvas.html",
+      "dependencies": []
+    },
+    "To Website/business/key-activities.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 15447,
+      "exportedPath": "To Website/business/key-activities.html",
+      "dependencies": []
+    },
+    "To Website/business/key-partnerships.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 16197,
+      "exportedPath": "To Website/business/key-partnerships.html",
+      "dependencies": []
+    },
+    "To Website/business/key-resources.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 19721,
+      "exportedPath": "To Website/business/key-resources.html",
+      "dependencies": []
+    },
+    "To Website/business/revenue-streams.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 14970,
+      "exportedPath": "To Website/business/revenue-streams.html",
+      "dependencies": []
+    },
+    "To Website/business/super-underrated-business-tip.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 15346,
+      "exportedPath": "To Website/business/super-underrated-business-tip.html",
+      "dependencies": []
+    },
+    "To Website/business/value-proposition-canvas-template.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 17424,
+      "exportedPath": "To Website/business/value-proposition-canvas-template.html",
+      "dependencies": []
+    },
+    "To Website/business/value-proposition-why-should-a-consumer-buy-your-product.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 19242,
+      "exportedPath": "To Website/business/value-proposition-why-should-a-consumer-buy-your-product.html",
+      "dependencies": []
+    },
+    "To Website/copywriting/copywriting-marc-roberts.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 18001,
+      "exportedPath": "To Website/copywriting/copywriting-marc-roberts.html",
+      "dependencies": []
+    },
+    "To Website/economics/capitalism.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 16045,
+      "exportedPath": "To Website/economics/capitalism.html",
+      "dependencies": []
+    },
+    "To Website/economics/how-the-economic-machine-works-by-ray-dalio.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 24203,
+      "exportedPath": "To Website/economics/how-the-economic-machine-works-by-ray-dalio.html",
+      "dependencies": []
+    },
+    "To Website/economics/side-note-of-how-the-economic-machine-works-by-ray-dalio.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 16801,
+      "exportedPath": "To Website/economics/side-note-of-how-the-economic-machine-works-by-ray-dalio.html",
+      "dependencies": []
+    },
+    "To Website/finance/ap101/1.-topic-financial-statements.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 14750,
+      "exportedPath": "To Website/finance/ap101/1.-topic-financial-statements.html",
+      "dependencies": []
+    },
+    "To Website/finance/ap101/accounting-terms.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 14962,
+      "exportedPath": "To Website/finance/ap101/accounting-terms.html",
+      "dependencies": []
+    },
+    "To Website/finance/ap101/ap101-note.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 16967,
+      "exportedPath": "To Website/finance/ap101/ap101-note.html",
+      "dependencies": []
+    },
+    "To Website/finance/ap101/balance-sheet.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 15213,
+      "exportedPath": "To Website/finance/ap101/balance-sheet.html",
+      "dependencies": []
+    },
+    "To Website/finance/ap101/cash-flow-statement.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 14184,
+      "exportedPath": "To Website/finance/ap101/cash-flow-statement.html",
+      "dependencies": []
+    },
+    "To Website/finance/ap101/complete-guide-to-adjusting-entries.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 16472,
+      "exportedPath": "To Website/finance/ap101/complete-guide-to-adjusting-entries.html",
+      "dependencies": []
+    },
+    "To Website/finance/ap101/fleeting-t-account.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 20199,
+      "exportedPath": "To Website/finance/ap101/fleeting-t-account.html",
+      "dependencies": []
+    },
+    "To Website/finance/ap101/income-statement.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 16840,
+      "exportedPath": "To Website/finance/ap101/income-statement.html",
+      "dependencies": []
+    },
+    "To Website/finance/ap101/lesson-1-for-accounting-principles.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 27188,
+      "exportedPath": "To Website/finance/ap101/lesson-1-for-accounting-principles.html",
+      "dependencies": []
+    },
+    "To Website/finance/ap101/prepaid-expenses.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 15268,
+      "exportedPath": "To Website/finance/ap101/prepaid-expenses.html",
+      "dependencies": []
+    },
+    "To Website/finance/ap101/prepayments-and-accruals.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 16861,
+      "exportedPath": "To Website/finance/ap101/prepayments-and-accruals.html",
+      "dependencies": []
+    },
+    "To Website/finance/ap101/revenue.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 14252,
+      "exportedPath": "To Website/finance/ap101/revenue.html",
+      "dependencies": []
+    },
+    "To Website/finance/ap101/the-reason-why-bank-credits-your-deposited-money.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 14637,
+      "exportedPath": "To Website/finance/ap101/the-reason-why-bank-credits-your-deposited-money.html",
+      "dependencies": []
+    },
+    "To Website/finance/ap101/trial-balance.png": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 96725,
+      "exportedPath": "To Website/finance/ap101/trial-balance.png",
+      "dependencies": []
+    },
+    "To Website/finance/ap101/trial-balance.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 14027,
+      "exportedPath": "To Website/finance/ap101/trial-balance.html",
+      "dependencies": []
+    },
+    "To Website/finance/ap101/value-chain.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 14749,
+      "exportedPath": "To Website/finance/ap101/value-chain.html",
+      "dependencies": []
+    },
+    "To Website/finance/bonds/categories-of-bonds.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 17821,
+      "exportedPath": "To Website/finance/bonds/categories-of-bonds.html",
+      "dependencies": []
+    },
+    "To Website/finance/bonds/characteristics-of-bonds.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 21168,
+      "exportedPath": "To Website/finance/bonds/characteristics-of-bonds.html",
+      "dependencies": []
+    },
+    "To Website/finance/bonds/corporate-bonds.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 14406,
+      "exportedPath": "To Website/finance/bonds/corporate-bonds.html",
+      "dependencies": []
+    },
+    "To Website/finance/bonds/coupon-dates.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 14041,
+      "exportedPath": "To Website/finance/bonds/coupon-dates.html",
+      "dependencies": []
+    },
+    "To Website/finance/bonds/coupon-rate.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 15224,
+      "exportedPath": "To Website/finance/bonds/coupon-rate.html",
+      "dependencies": []
+    },
+    "To Website/finance/bonds/government-bonds.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 14307,
+      "exportedPath": "To Website/finance/bonds/government-bonds.html",
+      "dependencies": []
+    },
+    "To Website/finance/bonds/issue-price.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 14310,
+      "exportedPath": "To Website/finance/bonds/issue-price.html",
+      "dependencies": []
+    },
+    "To Website/finance/bonds/maturity-date.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 14044,
+      "exportedPath": "To Website/finance/bonds/maturity-date.html",
+      "dependencies": []
+    },
+    "To Website/finance/bonds/municipal-bonds.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 14163,
+      "exportedPath": "To Website/finance/bonds/municipal-bonds.html",
+      "dependencies": []
+    },
+    "To Website/finance/bonds/who-and-why-do-they-sell-bonds.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 14761,
+      "exportedPath": "To Website/finance/bonds/who-and-why-do-they-sell-bonds.html",
+      "dependencies": []
+    },
+    "To Website/finance/crypto/don't-ever-mention-crypto-in-our-traditional-banking-system.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 15402,
+      "exportedPath": "To Website/finance/crypto/don't-ever-mention-crypto-in-our-traditional-banking-system.html",
+      "dependencies": []
+    },
+    "To Website/finance/fleeting/fleeting-derivatives.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 25785,
+      "exportedPath": "To Website/finance/fleeting/fleeting-derivatives.html",
+      "dependencies": []
+    },
+    "To Website/finance/fleeting/fleeting-influence-monetary-policy.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 21703,
+      "exportedPath": "To Website/finance/fleeting/fleeting-influence-monetary-policy.html",
+      "dependencies": []
+    },
+    "To Website/finance/fleeting/fleeting-lending.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 15239,
+      "exportedPath": "To Website/finance/fleeting/fleeting-lending.html",
+      "dependencies": []
+    },
+    "To Website/finance/fleeting/fleeting-monetary-authority.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 20590,
+      "exportedPath": "To Website/finance/fleeting/fleeting-monetary-authority.html",
+      "dependencies": []
+    },
+    "To Website/finance/fleeting/foreign-exchange-reserves-what-they-are,-why-countries-hold-them.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 18297,
+      "exportedPath": "To Website/finance/fleeting/foreign-exchange-reserves-what-they-are,-why-countries-hold-them.html",
+      "dependencies": []
+    },
+    "To Website/finance/fleeting/liquidation-definition.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 15251,
+      "exportedPath": "To Website/finance/fleeting/liquidation-definition.html",
+      "dependencies": []
+    },
+    "To Website/finance/stocks/adding-new-shares-reduces-value-to-existing-shareholders.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 15712,
+      "exportedPath": "To Website/finance/stocks/adding-new-shares-reduces-value-to-existing-shareholders.html",
+      "dependencies": []
+    },
+    "To Website/finance/stocks/are-dividends-in-stocks-irrelevant.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 15315,
+      "exportedPath": "To Website/finance/stocks/are-dividends-in-stocks-irrelevant.html",
+      "dependencies": []
+    },
+    "To Website/finance/stocks/benefits-of-owning-stocks.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 14742,
+      "exportedPath": "To Website/finance/stocks/benefits-of-owning-stocks.html",
+      "dependencies": []
+    },
+    "To Website/finance/stocks/best-consistent-dividend-payers.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 15269,
+      "exportedPath": "To Website/finance/stocks/best-consistent-dividend-payers.html",
+      "dependencies": []
+    },
+    "To Website/finance/stocks/board-of-directors.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 14923,
+      "exportedPath": "To Website/finance/stocks/board-of-directors.html",
+      "dependencies": []
+    },
+    "To Website/finance/stocks/board-of-directors-manages-the-corporation.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 14952,
+      "exportedPath": "To Website/finance/stocks/board-of-directors-manages-the-corporation.html",
+      "dependencies": []
+    },
+    "To Website/finance/stocks/capital-appreciation.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 17856,
+      "exportedPath": "To Website/finance/stocks/capital-appreciation.html",
+      "dependencies": []
+    },
+    "To Website/finance/stocks/common-stocks-high-risk-high-reward.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 15081,
+      "exportedPath": "To Website/finance/stocks/common-stocks-high-risk-high-reward.html",
+      "dependencies": []
+    },
+    "To Website/finance/stocks/consistent-dividend-payments-are-good-butttttt.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 15426,
+      "exportedPath": "To Website/finance/stocks/consistent-dividend-payments-are-good-butttttt.html",
+      "dependencies": []
+    },
+    "To Website/finance/stocks/corporations-101.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 15512,
+      "exportedPath": "To Website/finance/stocks/corporations-101.html",
+      "dependencies": []
+    },
+    "To Website/finance/stocks/dividends-in-stocks.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 20317,
+      "exportedPath": "To Website/finance/stocks/dividends-in-stocks.html",
+      "dependencies": []
+    },
+    "To Website/finance/stocks/how-a-company-starts-selling-stocks.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 15538,
+      "exportedPath": "To Website/finance/stocks/how-a-company-starts-selling-stocks.html",
+      "dependencies": []
+    },
+    "To Website/finance/stocks/how-does-buying-shares-or-a-shareholder-earn-money.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 15953,
+      "exportedPath": "To Website/finance/stocks/how-does-buying-shares-or-a-shareholder-earn-money.html",
+      "dependencies": []
+    },
+    "To Website/finance/stocks/lingo-of-stocks.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 15584,
+      "exportedPath": "To Website/finance/stocks/lingo-of-stocks.html",
+      "dependencies": []
+    },
+    "To Website/finance/stocks/most-majority-shareholders-are-company-founders.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 14979,
+      "exportedPath": "To Website/finance/stocks/most-majority-shareholders-are-company-founders.html",
+      "dependencies": []
+    },
+    "To Website/finance/stocks/preferred-stocks-stable-and-predictable.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 14689,
+      "exportedPath": "To Website/finance/stocks/preferred-stocks-stable-and-predictable.html",
+      "dependencies": []
+    },
+    "To Website/finance/stocks/reduction-of-dividend-payments-can-be-a-bad-sign-but-rest-assured....html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 15628,
+      "exportedPath": "To Website/finance/stocks/reduction-of-dividend-payments-can-be-a-bad-sign-but-rest-assured....html",
+      "dependencies": []
+    },
+    "To Website/finance/stocks/shareholders-101.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 16420,
+      "exportedPath": "To Website/finance/stocks/shareholders-101.html",
+      "dependencies": []
+    },
+    "To Website/finance/stocks/stocks.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 18150,
+      "exportedPath": "To Website/finance/stocks/stocks.html",
+      "dependencies": []
+    },
+    "To Website/finance/stocks/tax-write-off-reduce-taxable-income.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 17582,
+      "exportedPath": "To Website/finance/stocks/tax-write-off-reduce-taxable-income.html",
+      "dependencies": []
+    },
+    "To Website/finance/stocks/the-voting-rights-of-common-shares-does-make-sense.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 14807,
+      "exportedPath": "To Website/finance/stocks/the-voting-rights-of-common-shares-does-make-sense.html",
+      "dependencies": []
+    },
+    "To Website/finance/stocks/thoughts-the-voting-rights-of-common-shares-does-make-sense.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 15016,
+      "exportedPath": "To Website/finance/stocks/thoughts-the-voting-rights-of-common-shares-does-make-sense.html",
+      "dependencies": []
+    },
+    "To Website/finance/stocks/two-main-types-of-stocks.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 16787,
+      "exportedPath": "To Website/finance/stocks/two-main-types-of-stocks.html",
+      "dependencies": []
+    },
+    "To Website/finance/stocks/two-types-of-stocks-shares.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 16169,
+      "exportedPath": "To Website/finance/stocks/two-types-of-stocks-shares.html",
+      "dependencies": []
+    },
+    "To Website/finance/stocks/voting-rights-at-shareholders-meetings.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 14274,
+      "exportedPath": "To Website/finance/stocks/voting-rights-at-shareholders-meetings.html",
+      "dependencies": []
+    },
+    "To Website/finance/tax-system/derivatives.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 18064,
+      "exportedPath": "To Website/finance/tax-system/derivatives.html",
+      "dependencies": []
+    },
+    "To Website/finance/tax-system/fleeting-hedges.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 14368,
+      "exportedPath": "To Website/finance/tax-system/fleeting-hedges.html",
+      "dependencies": []
+    },
+    "To Website/finance/tax-system/fundamental-way-of-learning-taxes.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 17164,
+      "exportedPath": "To Website/finance/tax-system/fundamental-way-of-learning-taxes.html",
+      "dependencies": []
+    },
+    "To Website/finance/tax-system/lingo-of-taxes.png": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 74275,
+      "exportedPath": "To Website/finance/tax-system/lingo-of-taxes.png",
+      "dependencies": []
+    },
+    "To Website/finance/tax-system/lingo-of-taxes.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 14713,
+      "exportedPath": "To Website/finance/tax-system/lingo-of-taxes.html",
+      "dependencies": []
+    },
+    "To Website/finance/tax-system/types-of-derivatives.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 19133,
+      "exportedPath": "To Website/finance/tax-system/types-of-derivatives.html",
+      "dependencies": []
+    },
+    "To Website/finance/tax-system/types-of-taxes.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 24005,
+      "exportedPath": "To Website/finance/tax-system/types-of-taxes.html",
+      "dependencies": []
+    },
+    "To Website/finance/accounts-receivable.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 14239,
+      "exportedPath": "To Website/finance/accounts-receivable.html",
+      "dependencies": []
+    },
+    "To Website/finance/assets.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 14270,
+      "exportedPath": "To Website/finance/assets.html",
+      "dependencies": []
+    },
+    "To Website/finance/assets-are-judged-based-on-how-liquid-they-are-liquidity.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 15417,
+      "exportedPath": "To Website/finance/assets-are-judged-based-on-how-liquid-they-are-liquidity.html",
+      "dependencies": []
+    },
+    "To Website/finance/brokers.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 14558,
+      "exportedPath": "To Website/finance/brokers.html",
+      "dependencies": []
+    },
+    "To Website/finance/face-value.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 14751,
+      "exportedPath": "To Website/finance/face-value.html",
+      "dependencies": []
+    },
+    "To Website/finance/factoring.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 19736,
+      "exportedPath": "To Website/finance/factoring.html",
+      "dependencies": []
+    },
+    "To Website/finance/fiat-money.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 22584,
+      "exportedPath": "To Website/finance/fiat-money.html",
+      "dependencies": []
+    },
+    "To Website/finance/financial-asset.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 16028,
+      "exportedPath": "To Website/finance/financial-asset.html",
+      "dependencies": []
+    },
+    "To Website/finance/fleeting-bonds.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 35591,
+      "exportedPath": "To Website/finance/fleeting-bonds.html",
+      "dependencies": []
+    },
+    "To Website/finance/fleeting-capital.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 13835,
+      "exportedPath": "To Website/finance/fleeting-capital.html",
+      "dependencies": []
+    },
+    "To Website/finance/fleeting-equity.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 18381,
+      "exportedPath": "To Website/finance/fleeting-equity.html",
+      "dependencies": []
+    },
+    "To Website/finance/initial-public-offering-(ipo).html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 14289,
+      "exportedPath": "To Website/finance/initial-public-offering-(ipo).html",
+      "dependencies": []
+    },
+    "To Website/finance/intangible-asset.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 14612,
+      "exportedPath": "To Website/finance/intangible-asset.html",
+      "dependencies": []
+    },
+    "To Website/finance/lending-what-is-it.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 14341,
+      "exportedPath": "To Website/finance/lending-what-is-it.html",
+      "dependencies": []
+    },
+    "To Website/finance/monetary-policy.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 14185,
+      "exportedPath": "To Website/finance/monetary-policy.html",
+      "dependencies": []
+    },
+    "To Website/finance/money-humanity's-biggest-illusion.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 16837,
+      "exportedPath": "To Website/finance/money-humanity's-biggest-illusion.html",
+      "dependencies": []
+    },
+    "To Website/finance/puttable-bond.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 14425,
+      "exportedPath": "To Website/finance/puttable-bond.html",
+      "dependencies": []
+    },
+    "To Website/finance/real-asset.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 14634,
+      "exportedPath": "To Website/finance/real-asset.html",
+      "dependencies": []
+    },
+    "To Website/finance/securities-in-finance.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 14259,
+      "exportedPath": "To Website/finance/securities-in-finance.html",
+      "dependencies": []
+    },
+    "To Website/finance/shareholder-equity.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 13839,
+      "exportedPath": "To Website/finance/shareholder-equity.html",
+      "dependencies": []
+    },
+    "To Website/finance/stock-market-vs-stock-exchange.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 14539,
+      "exportedPath": "To Website/finance/stock-market-vs-stock-exchange.html",
+      "dependencies": []
+    },
+    "To Website/finance/underlying-asset.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 15058,
+      "exportedPath": "To Website/finance/underlying-asset.html",
+      "dependencies": []
+    },
+    "To Website/finance/underwriters.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 14920,
+      "exportedPath": "To Website/finance/underwriters.html",
+      "dependencies": []
+    },
+    "To Website/javascript-essential-training/call-stack-vs-memory-heap.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 21540,
+      "exportedPath": "To Website/javascript-essential-training/call-stack-vs-memory-heap.html",
+      "dependencies": []
+    },
+    "To Website/javascript-essential-training/complete-notes.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 100068,
+      "exportedPath": "To Website/javascript-essential-training/complete-notes.html",
+      "dependencies": []
+    },
+    "To Website/javascript-essential-training/how-javascript-compiles-code.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 26232,
+      "exportedPath": "To Website/javascript-essential-training/how-javascript-compiles-code.html",
+      "dependencies": []
+    },
+    "To Website/javascript-essential-training/interpreter-vs-compiler-analogy.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 14666,
+      "exportedPath": "To Website/javascript-essential-training/interpreter-vs-compiler-analogy.html",
+      "dependencies": []
+    },
+    "To Website/job-analysis-project/data-analysis/course-data-analysis-with-python-freecodecamp/demographic-data-analyzer/how-many-people-of-each-race-are-represented-in-this-dataset.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 16935,
+      "exportedPath": "To Website/job-analysis-project/data-analysis/course-data-analysis-with-python-freecodecamp/demographic-data-analyzer/how-many-people-of-each-race-are-represented-in-this-dataset.html",
+      "dependencies": []
+    },
+    "To Website/job-analysis-project/data-analysis/course-data-analysis-with-python-freecodecamp/demographic-data-analyzer/untitled.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 20101,
+      "exportedPath": "To Website/job-analysis-project/data-analysis/course-data-analysis-with-python-freecodecamp/demographic-data-analyzer/untitled.html",
+      "dependencies": []
+    },
+    "To Website/job-analysis-project/data-analysis/course-data-analysis-with-python-freecodecamp/demographic-data-analyzer/what-is-the-average-age-of-men.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 16006,
+      "exportedPath": "To Website/job-analysis-project/data-analysis/course-data-analysis-with-python-freecodecamp/demographic-data-analyzer/what-is-the-average-age-of-men.html",
+      "dependencies": []
+    },
+    "To Website/job-analysis-project/data-analysis/course-data-analysis-with-python-freecodecamp/demographic-data-analyzer/what-is-the-minimum-number-of-hours-a-person-works-per-week.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 15099,
+      "exportedPath": "To Website/job-analysis-project/data-analysis/course-data-analysis-with-python-freecodecamp/demographic-data-analyzer/what-is-the-minimum-number-of-hours-a-person-works-per-week.html",
+      "dependencies": []
+    },
+    "To Website/job-analysis-project/data-analysis/course-data-analysis-with-python-freecodecamp/demographic-data-analyzer/what-is-the-percentage-of-people-who-have-a-bachelor's-degree.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 18829,
+      "exportedPath": "To Website/job-analysis-project/data-analysis/course-data-analysis-with-python-freecodecamp/demographic-data-analyzer/what-is-the-percentage-of-people-who-have-a-bachelor's-degree.html",
+      "dependencies": []
+    },
+    "To Website/job-analysis-project/data-analysis/course-data-analysis-with-python-freecodecamp/mean-variance-standard-deviation-calculator/instructions.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 22707,
+      "exportedPath": "To Website/job-analysis-project/data-analysis/course-data-analysis-with-python-freecodecamp/mean-variance-standard-deviation-calculator/instructions.html",
+      "dependencies": []
+    },
+    "To Website/job-analysis-project/data-analysis/course-data-analysis-with-python-freecodecamp/mean-variance-standard-deviation-calculator/my-solution.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 16222,
+      "exportedPath": "To Website/job-analysis-project/data-analysis/course-data-analysis-with-python-freecodecamp/mean-variance-standard-deviation-calculator/my-solution.html",
+      "dependencies": []
+    },
+    "To Website/job-analysis-project/data-analysis/course-data-analysis-with-python-freecodecamp/data-analysis-with-python-course.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 23697,
+      "exportedPath": "To Website/job-analysis-project/data-analysis/course-data-analysis-with-python-freecodecamp/data-analysis-with-python-course.html",
+      "dependencies": []
+    },
+    "To Website/job-analysis-project/data-analysis/course-data-analysis-with-python-freecodecamp/pandas-series.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 16130,
+      "exportedPath": "To Website/job-analysis-project/data-analysis/course-data-analysis-with-python-freecodecamp/pandas-series.html",
+      "dependencies": []
+    },
+    "To Website/job-analysis-project/file-formats-for-data-storage-in-data-analysis.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 17728,
+      "exportedPath": "To Website/job-analysis-project/file-formats-for-data-storage-in-data-analysis.html",
+      "dependencies": []
+    },
+    "To Website/job-analysis-project/forgot-about-stemming,-that-shit-sucks.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 16090,
+      "exportedPath": "To Website/job-analysis-project/forgot-about-stemming,-that-shit-sucks.html",
+      "dependencies": []
+    },
+    "To Website/job-analysis-project/pandas.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 29746,
+      "exportedPath": "To Website/job-analysis-project/pandas.html",
+      "dependencies": []
+    },
+    "To Website/job-analysis-project/python-nltk-package.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 28382,
+      "exportedPath": "To Website/job-analysis-project/python-nltk-package.html",
+      "dependencies": []
+    },
+    "To Website/job-analysis-project/someone-created-a-website-out-of-it.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 15270,
+      "exportedPath": "To Website/job-analysis-project/someone-created-a-website-out-of-it.html",
+      "dependencies": []
+    },
+    "To Website/job-analysis-project/text-classification.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 17813,
+      "exportedPath": "To Website/job-analysis-project/text-classification.html",
+      "dependencies": []
+    },
+    "To Website/job-analysis-project/types-of-data-analysis-in-quantitative-data.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 20033,
+      "exportedPath": "To Website/job-analysis-project/types-of-data-analysis-in-quantitative-data.html",
+      "dependencies": []
+    },
+    "To Website/job-analysis-project/untitled.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 16594,
+      "exportedPath": "To Website/job-analysis-project/untitled.html",
+      "dependencies": []
+    },
+    "To Website/job-analysis-project/updating-scraped-data.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 17024,
+      "exportedPath": "To Website/job-analysis-project/updating-scraped-data.html",
+      "dependencies": []
+    },
+    "To Website/learning-data-analytics-1-foundations/google-data-analytics.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 14681,
+      "exportedPath": "To Website/learning-data-analytics-1-foundations/google-data-analytics.html",
+      "dependencies": []
+    },
+    "To Website/learning-data-analytics-1-foundations/introduction-to-statistics.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 15279,
+      "exportedPath": "To Website/learning-data-analytics-1-foundations/introduction-to-statistics.html",
+      "dependencies": []
+    },
+    "To Website/learning-data-analytics-1-foundations/khan-academy-statistics.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 23694,
+      "exportedPath": "To Website/learning-data-analytics-1-foundations/khan-academy-statistics.html",
+      "dependencies": []
+    },
+    "To Website/learning-data-analytics-1-foundations/linkedin-courses-notes.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 20245,
+      "exportedPath": "To Website/learning-data-analytics-1-foundations/linkedin-courses-notes.html",
+      "dependencies": []
+    },
+    "To Website/learning-data-analytics-1-foundations/topic-modeling.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 14185,
+      "exportedPath": "To Website/learning-data-analytics-1-foundations/topic-modeling.html",
+      "dependencies": []
+    },
+    "To Website/learning-java/complete-notes.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 31711,
+      "exportedPath": "To Website/learning-java/complete-notes.html",
+      "dependencies": []
+    },
+    "To Website/lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 104332,
+      "exportedPath": "To Website/lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "To Website/lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 7876,
+      "exportedPath": "To Website/lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "To Website/lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 155288,
+      "exportedPath": "To Website/lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "To Website/lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 191568,
+      "exportedPath": "To Website/lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "To Website/lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 192740,
+      "exportedPath": "To Website/lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "To Website/lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 66800,
+      "exportedPath": "To Website/lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "To Website/lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 111708,
+      "exportedPath": "To Website/lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "To Website/lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 104232,
+      "exportedPath": "To Website/lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "To Website/lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 161376,
+      "exportedPath": "To Website/lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "To Website/lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 105804,
+      "exportedPath": "To Website/lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "To Website/lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 98868,
+      "exportedPath": "To Website/lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "To Website/lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 106876,
+      "exportedPath": "To Website/lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "To Website/lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 106108,
+      "exportedPath": "To Website/lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "To Website/lib/html/file-tree.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 76012,
+      "exportedPath": "To Website/lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "To Website/lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 317,
+      "exportedPath": "To Website/lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "To Website/lib/media/favicon.png": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 1105,
+      "exportedPath": "To Website/lib/media/favicon.png",
+      "dependencies": []
+    },
+    "To Website/lib/scripts/graph-data.js": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 16673,
+      "exportedPath": "To Website/lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "To Website/lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 5179,
+      "exportedPath": "To Website/lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "To Website/lib/scripts/graph-view.js": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 15519,
+      "exportedPath": "To Website/lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "To Website/lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 23377,
+      "exportedPath": "To Website/lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "To Website/lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 14021,
+      "exportedPath": "To Website/lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "To Website/lib/scripts/minisearch.js": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 29422,
+      "exportedPath": "To Website/lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "To Website/lib/scripts/pixi.js": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 449511,
+      "exportedPath": "To Website/lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "To Website/lib/scripts/tinycolor.js": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 29832,
+      "exportedPath": "To Website/lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "To Website/lib/scripts/webpage.js": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 47290,
+      "exportedPath": "To Website/lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "To Website/lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 236,
+      "exportedPath": "To Website/lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "To Website/lib/styles/main-styles.css": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 23130,
+      "exportedPath": "To Website/lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "To Website/lib/styles/obsidian.css": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 157380,
+      "exportedPath": "To Website/lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "To Website/lib/metadata.json": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 57938,
+      "exportedPath": "To Website/lib/metadata.json",
+      "dependencies": []
+    },
+    "To Website/lib/search-index.json": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 309809,
+      "exportedPath": "To Website/lib/search-index.json",
+      "dependencies": []
+    },
+    "To Website/music/how-i-keep-my-listeners-engaged.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 20120,
+      "exportedPath": "To Website/music/how-i-keep-my-listeners-engaged.html",
+      "dependencies": []
+    },
+    "To Website/music/how-to-finish-more-songs.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 24562,
+      "exportedPath": "To Website/music/how-to-finish-more-songs.html",
+      "dependencies": []
+    },
+    "To Website/programming-foundations-object-oriented-design/complete-notes.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 45683,
+      "exportedPath": "To Website/programming-foundations-object-oriented-design/complete-notes.html",
+      "dependencies": []
+    },
+    "To Website/time-management-fundamentals/1.-choose-a-physical-inbox.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 15215,
+      "exportedPath": "To Website/time-management-fundamentals/1.-choose-a-physical-inbox.html",
+      "dependencies": []
+    },
+    "To Website/time-management-fundamentals/2.-choosing-a-portable-inbox.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 14730,
+      "exportedPath": "To Website/time-management-fundamentals/2.-choosing-a-portable-inbox.html",
+      "dependencies": []
+    },
+    "To Website/time-management-fundamentals/3.-choosing-a-notepad.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 15399,
+      "exportedPath": "To Website/time-management-fundamentals/3.-choosing-a-notepad.html",
+      "dependencies": []
+    },
+    "To Website/time-management-fundamentals/complete-notes.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 35566,
+      "exportedPath": "To Website/time-management-fundamentals/complete-notes.html",
+      "dependencies": []
+    },
+    "To Website/time-management-fundamentals/digital-storage-made-simple.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 24124,
+      "exportedPath": "To Website/time-management-fundamentals/digital-storage-made-simple.html",
+      "dependencies": []
+    },
+    "To Website/time-management-fundamentals/gathering-to-the-inbox.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 22055,
+      "exportedPath": "To Website/time-management-fundamentals/gathering-to-the-inbox.html",
+      "dependencies": []
+    },
+    "To Website/time-management-fundamentals/managing-time-at-work.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 20413,
+      "exportedPath": "To Website/time-management-fundamentals/managing-time-at-work.html",
+      "dependencies": []
+    },
+    "To Website/time-management-fundamentals/mindsets-get-the-most-out-of-your-calendar.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 23225,
+      "exportedPath": "To Website/time-management-fundamentals/mindsets-get-the-most-out-of-your-calendar.html",
+      "dependencies": []
+    },
+    "To Website/time-management-fundamentals/perhaps-list-record-your-ideas-here-after-processing.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 18780,
+      "exportedPath": "To Website/time-management-fundamentals/perhaps-list-record-your-ideas-here-after-processing.html",
+      "dependencies": []
+    },
+    "To Website/time-management-fundamentals/processing-email.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 17388,
+      "exportedPath": "To Website/time-management-fundamentals/processing-email.html",
+      "dependencies": []
+    },
+    "To Website/time-management-fundamentals/productivity-principle-1-space.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 26216,
+      "exportedPath": "To Website/time-management-fundamentals/productivity-principle-1-space.html",
+      "dependencies": []
+    },
+    "To Website/time-management-fundamentals/productivity-principle-2-mind.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 19830,
+      "exportedPath": "To Website/time-management-fundamentals/productivity-principle-2-mind.html",
+      "dependencies": []
+    },
+    "To Website/time-management-fundamentals/productivity-principle-3-time.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 15260,
+      "exportedPath": "To Website/time-management-fundamentals/productivity-principle-3-time.html",
+      "dependencies": []
+    },
+    "To Website/time-management-fundamentals/understanding-processing.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 24660,
+      "exportedPath": "To Website/time-management-fundamentals/understanding-processing.html",
+      "dependencies": []
+    },
+    "To Website/index.html": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 22282,
+      "exportedPath": "To Website/index.html",
+      "dependencies": []
+    },
+    "To Website/para_note_taking_system_preview.png": {
+      "modifiedTime": 1710590520925,
+      "sourceSize": 198762,
+      "exportedPath": "To Website/para_note_taking_system_preview.png",
       "dependencies": []
     },
     "index.md": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 3595,
       "exportedPath": "index.html",
-      "dependencies": [
-        "para_note_taking_system_preview.png"
-      ]
-    },
-    "para_note_taking_system_preview.png": {
-      "modifiedTime": 1710589952064,
-      "sourceSize": 198762,
-      "exportedPath": "para_note_taking_system_preview.png",
-      "dependencies": []
-    },
-    "finance/ap101/trial-balance.png": {
-      "modifiedTime": 1710589952064,
-      "sourceSize": 96725,
-      "exportedPath": "finance/ap101/trial-balance.png",
-      "dependencies": []
-    },
-    "finance/tax-system/lingo-of-taxes.png": {
-      "modifiedTime": 1710589952064,
-      "sourceSize": 74275,
-      "exportedPath": "finance/tax-system/lingo-of-taxes.png",
-      "dependencies": []
-    },
-    "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1710589952064,
-      "sourceSize": 23377,
-      "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1710589952064,
+      "modifiedTime": 1710590520925,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
-      "dependencies": []
-    },
-    "lib/html/file-tree.html": {
-      "modifiedTime": 1710589952064,
-      "sourceSize": 76012,
-      "exportedPath": "lib/html/file-tree.html",
-      "dependencies": []
-    },
-    "lib/scripts/webpage.js": {
-      "modifiedTime": 1710589952064,
-      "sourceSize": 47290,
-      "exportedPath": "lib/scripts/webpage.js",
-      "dependencies": []
-    },
-    "lib/scripts/graph-view.js": {
-      "modifiedTime": 1710589952064,
-      "sourceSize": 15519,
-      "exportedPath": "lib/scripts/graph-view.js",
-      "dependencies": []
-    },
-    "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1710589952064,
-      "sourceSize": 14021,
-      "exportedPath": "lib/scripts/graph-wasm.js",
-      "dependencies": []
-    },
-    "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1710589952064,
-      "sourceSize": 5179,
-      "exportedPath": "lib/scripts/graph-render-worker.js",
-      "dependencies": []
-    },
-    "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1710589952064,
-      "sourceSize": 29832,
-      "exportedPath": "lib/scripts/tinycolor.js",
-      "dependencies": []
-    },
-    "lib/scripts/pixi.js": {
-      "modifiedTime": 1710589952064,
-      "sourceSize": 449509,
-      "exportedPath": "lib/scripts/pixi.js",
-      "dependencies": []
-    },
-    "lib/scripts/minisearch.js": {
-      "modifiedTime": 1710589952064,
-      "sourceSize": 29422,
-      "exportedPath": "lib/scripts/minisearch.js",
-      "dependencies": []
-    },
-    "lib/media/favicon.png": {
-      "modifiedTime": 1710589952064,
-      "sourceSize": 1105,
-      "exportedPath": "lib/media/favicon.png",
-      "dependencies": []
-    },
-    "lib/scripts/graph-data.js": {
-      "modifiedTime": 1710589952064,
-      "sourceSize": 16673,
-      "exportedPath": "lib/scripts/graph-data.js",
-      "dependencies": []
-    },
-    "lib/styles/obsidian.css": {
-      "modifiedTime": 1710589952064,
-      "sourceSize": 157356,
-      "exportedPath": "lib/styles/obsidian.css",
-      "dependencies": []
-    },
-    "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1710589952064,
-      "sourceSize": 236,
-      "exportedPath": "lib/styles/global-variable-styles.css",
-      "dependencies": []
-    },
-    "lib/styles/main-styles.css": {
-      "modifiedTime": 1710589952064,
-      "sourceSize": 23130,
-      "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     }
   }
